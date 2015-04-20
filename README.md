@@ -4,7 +4,7 @@
 - A suicide hotline displays shortly afterward. 
 
 <br>
-<img src="http://i1369.photobucket.com/albums/ag238/sugarcoder/notalone_zpstvsl7twu.jpg" height="200" width="400">
+<img src="http://i1369.photobucket.com/albums/ag238/sugarcoder/Sui_zpsmpsoga73.jpg" height="200" width="400">
 
 ### Acknowledgements: 
 - Facebook Compassion Team
