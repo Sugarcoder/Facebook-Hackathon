@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Not Alone</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_msg_reass">msgSui</string>
+    <string name="hotline">Help is available! Call a trained helper at Lifeline at 1&#8211;800&#8211;273&#8211;8255</string>
+    <string name="hotlines">Reassurance Message</string>
+</resources>
